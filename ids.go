@@ -47,7 +47,7 @@ func processData(data []byte) {
 	//This is for testing purposes only
 	//It'll just print the data received
 
-	fmt.Println("Data received... ". string(data))
+	fmt.Println("Data received... ", string(data))
 	//Here goes the rules and actions to take
 
 
